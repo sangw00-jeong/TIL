@@ -10,3 +10,7 @@
 
 - [WS(Web Server) VS WAS(Web Application Server)](https://github.com/sangw00/TIL/blob/main/Web/WS(Web%20Server)%20VS%20WAS(Web%20Application%20Server).md#wsweb-server-vs-wasweb-application-server)
 
+## MySQL
+
+- [NL Join VS Hash Join](https://github.com/sangw00/TIL/blob/main/MySQL/NL%20Join%20VS%20Hash%20Join.md#nl-join-vs-hash-join)
+
