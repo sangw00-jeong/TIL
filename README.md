@@ -14,3 +14,5 @@
 
 - [NL Join VS Hash Join](https://github.com/sangw00/TIL/blob/main/MySQL/NL%20Join%20VS%20Hash%20Join.md#nl-join-vs-hash-join)
 
+- [InnoDB VS MyISAM](https://github.com/sangw00/TIL/blob/main/MySQL/InnoDB%20VS%20MyISAM.md#innodb-vs-myisam)
+
