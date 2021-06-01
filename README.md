@@ -9,6 +9,7 @@
 ## Web
 
 - [WS(Web Server) VS WAS(Web Application Server)](https://github.com/sangw00/TIL/blob/main/Web/WS(Web%20Server)%20VS%20WAS(Web%20Application%20Server).md#wsweb-server-vs-wasweb-application-server)
+- [HTTP VS HTTPS](https://github.com/sangw00/TIL/blob/main/Web/HTTP%20VS%20HTTPS.md#http-vs-https)
 
 ## MySQL
 
